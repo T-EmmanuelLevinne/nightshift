@@ -1,0 +1,304 @@
+================================================================================
+                NIGHTSHIFT: JOJO'S GAS STATION
+        LIVE PRESENTATION SCRIPT — HOW THE MAIN CHARACTER PLAYS
+================================================================================
+
+PRESENTATION GOAL:
+Explain and demonstrate how the player controls the main character and
+experiences the story across all 5 Acts — moving from mundane, grounded
+first-person tasks to escalating VHS-style psychological horror.
+
+RECOMMENDED DEMO LENGTH: 5 to 8 minutes (depending on how much live gameplay
+you show vs. narrate).
+
+================================================================================
+SECTION 1: OPENING & MAIN MENU (0:00 - 0:45)
+================================================================================
+
+[ON SCREEN]
+- Launch the game and stay on the Main Menu for 10-15 seconds so the audience
+  sees the eerie midnight gas station background, VHS scanlines, rolling
+  tracking bar, and the glitching "NIGHTSHIFT: JOJO'S GAS STATION" title.
+- Hover slowly over "START GAME" and "EXIT" to show the glitch snap & audio.
+
+[SAY TO AUDIENCE]
+"Good morning/afternoon everyone! Today we are presenting our first-person
+psychological horror game built in Unity: 'NIGHTSHIFT: JOJO'S GAS STATION.'
+
+Right away on the Main Menu, you can see our VHS analog-horror aesthetic —
+with scanlines, flickering moonlight over the gas station, ambient horror
+audio, and real-time VHS glitch effects across the title and interface.
+
+In this game, you play as a lone night-shift convenience store clerk working
+at Jojo's Gas Station along Route 9. What makes the gameplay unique is how
+it uses ordinary, hands-on daily routines — cooking dinner, mopping floors,
+scanning groceries, restocking shelves — to pull the player in, before slowly
+twisting those same mechanics into horror.
+
+Our story runs in a strict 5-Act alternating loop between two locations:
+  - Act 1: At Home (Prologue)
+  - Act 2: At the Gas Station (Night Shift 1)
+  - Act 3: Back Home (Storm & Power Outage)
+  - Act 4: Back at the Gas Station (Night Shift 2 & Climax)
+  - Act 5: Home Finale (The Nightmare & Truth Reveal)"
+
+================================================================================
+SECTION 2: HOW THE MAIN CHARACTER PLAYS (CONTROLS & CORE MECHANICS) (0:45 - 1:30)
+================================================================================
+
+[ON SCREEN]
+- Click "START GAME" (watch the heavy VHS glitch scramble fade into Act 1).
+- As soon as you spawn outside the cabin, slowly look around and walk toward
+  the front door while explaining the controls.
+
+[SAY TO AUDIENCE]
+"Before we jump deep into the story, here is how the main character plays:
+
+1. Movement & Camera:
+   The game is controlled in classic first-person perspective — W, A, S, D
+   to walk, Left Shift to sprint, and the mouse to look around. We also added
+   subtle retro VHS visuals, camera breathing, and immersive POV animations
+   like waking up from bed, sitting in a chair, and washing your face.
+
+2. Context-Sensitive Interaction (E Key):
+   Whenever the main character looks at an interactive object — a door, a
+   fridge, a stove, a coworker, or a customer's item — the center crosshair
+   highlights and tells you the exact action you can take by pressing E.
+
+3. 3-Slot Hotbar Inventory (Keys 1, 2, 3 or Mouse Wheel):
+   At the bottom of the screen, the player manages up to three equipped items
+   at once — such as food ingredients, a frying pan, a mop, a candle, a
+   restock box, an umbrella, a multipurpose key, or their phone.
+
+4. Hands-On Actions & Diegetic UI:
+   Certain items have direct physical actions — like Left Clicking to mop
+   floor stains or fold your umbrella indoors, or interacting directly with
+   in-world screens like the TV remote, the Cashier PC register, and an
+   interactive phone dialpad.
+
+5. Objective Tracking:
+   In the top-left corner, the player always has a clear Task list guiding
+   them through each shift — though later in the game, even the task list
+   starts reacting to the protagonist's sanity."
+
+================================================================================
+SECTION 3: ACT 1 — HOME PROLOGUE (GROUNDED ROUTINE) (1:30 - 2:45)
+================================================================================
+
+[ON SCREEN]
+- Open the cabin front door and step inside.
+- Open the fridge, grab Eggs and Bacon, place them on the kitchen counter.
+- Open the cabinet for the Frying Pan, put it on the stove, turn the burner on,
+  and fry 1 Egg and 2 Bacons (15-second cooking timer).
+- Plate the cooked meal, place it on the dining table, grab a fork, sit in
+  the dining chair, and eat.
+- Wash the dirty plate at the sink, put it back, return the food to the fridge.
+- Grab the TV remote and tune to Channel 5 (Breaking News).
+- Turn off cabin lights, check that the front door is closed, and sleep.
+
+[SAY TO AUDIENCE]
+"Act 1 starts at the main character's cabin at night. Our protagonist comes
+home exhausted and hungry, so the player physically goes through a realistic
+evening routine:
+
+- You open the refrigerator, grab eggs and bacon, place them on the kitchen
+  counter, take a frying pan out of the cabinet, turn on the gas stove, and
+  fry your meal for 15 seconds as the food visibly cooks and sizzles.
+- Then you plate the meal, carry it to the dining table, grab a fork from
+  the drawer, sit down, and eat in first-person POV — followed by washing
+  your dirty plate at the sink and putting everything away.
+
+Next, you pick up the TV remote and flip to Channel 5, where a Breaking News
+broadcast reports a serious car accident in heavy fog right near Jojo's Gas
+Station on Route 9. At this point, the character just shrugs it off as a
+warning to be careful tomorrow — though this broadcast is actually major
+foreshadowing for the ending.
+
+Finally, the player turns off every light switch in the house, makes sure the
+front door is shut, and lies down in bed to sleep before their night shift."
+
+================================================================================
+SECTION 4: ACT 2 — NIGHT SHIFT 1 AT JOJO'S GAS STATION (2:45 - 4:00)
+================================================================================
+
+[ON SCREEN]
+- Talk to Billy outside/near the entrance for handover.
+- Enter the store, equip the Mop from the hotbar, and Left Click to clean the
+  3 floor stains.
+- Serve Customer 1 (Steve): wait as he grabs a Coca-Cola from the fridge,
+  stand behind the counter, scan the item with E, and check him out using
+  the Cashier PC POS screen.
+- Inspect the empty canned-food shelf.
+- Serve Customer 2 (Melia) at the checkout counter.
+- Go to the Stockroom, carry the Trash Bag out to the exterior Dumpster, and
+  experience Junk's jumpscare encounter behind you.
+- Return to the counter to end Shift 1.
+
+[SAY TO AUDIENCE]
+"In Act 2, the main character arrives at Jojo's Gas Station for Night Shift 1.
+First, you talk to your coworker Billy for the shift handover — and quickly
+discover he left the store dirty.
+
+Here the player demonstrates the core job loop of the protagonist:
+- Equipping the mop and scrubbing all three floor stains around the store.
+- Running the cashier counter: Customers like Steve and Melia physically walk
+  into the store, browse aisles, open the beverage fridge, pick up items,
+  and bring them to the counter. The player steps behind the register, scans
+  the barcode with E, and processes payment directly on our interactive
+  Cashier PC point-of-sale interface.
+- Checking store inventory: You notice the best-selling canned food shelf is
+  completely empty and decide to restock it tomorrow.
+
+Things first turn unsettling when you carry the trash bag out to the dumpster
+behind the store. As soon as you toss it, a strange man named Junk appears
+right behind you — freezing your movement until you turn around for a sudden
+jumpscare and bizarre conversation about buying 'wet socks.' Shaken, the main
+character returns to the counter and finishes the shift."
+
+================================================================================
+SECTION 5: ACT 3 — STORM, POWER OUTAGE & THE WINDOW (4:00 - 5:00)
+================================================================================
+
+[ON SCREEN]
+- Wake up in the cabin during a heavy thunderstorm to loud knocking.
+- Walk to the locked front door and talk to the stranger (Juan), refusing entry.
+- Walk to the bathroom sink and press E to wash your face (eyes close fully,
+  and power cuts out the exact moment they open).
+- Test a dead light switch, find and light the candle from the living room,
+  grab your phone from the bedroom, and call the Manager.
+- React to the left living room window shattering -> inspect it -> lightning
+  flashes to reveal the motionless Monster staring straight at you -> pan down
+  to the dead pigeon.
+
+[SAY TO AUDIENCE]
+"Act 3 brings the main character back home during a violent thunderstorm.
+You wake up slowly from bed to loud knocking on the locked front door. A
+stranger named Juan begs to come inside, and the protagonist refuses.
+
+Trying to shake off the uneasy feeling, the player goes to the bathroom sink
+to wash their face. As the character splashes water and closes their eyes,
+the entire house loses power right as their eyes open.
+
+Now the player has to navigate in pitch darkness:
+- Testing a light switch confirms the outage.
+- You locate and light a candle in the living room, giving you a warm
+  flickering light source as you search the bedroom for your phone.
+- Calling your Manager, you're pressured into taking tonight's shift for
+  double pay.
+
+Right as you agree, the living room window suddenly shatters. When the player
+investigates, a flash of lightning illuminates a dark, motionless figure
+outside staring directly at you — before vanishing in the dark. Looking down,
+you only see a dead pigeon on the floor, convincing the main character they
+are just exhausted and imagining things."
+
+================================================================================
+SECTION 6: ACT 4 — NIGHT SHIFT 2, MURDER & STOCKROOM CLIMAX (5:00 - 6:30)
+================================================================================
+
+[ON SCREEN]
+- Spawn outside the gas station in pouring rain holding the black umbrella.
+- Walk inside, fold/sheath the umbrella (Left Click / F / R / Q), and place it
+  in the Umbrella Stand behind the counter (which reveals your Phone on the
+  counter basket).
+- Pick up the Cardboard Restock Box, set it on the glowing restock zone, stock
+  all 12 cans onto the shelf, and return the empty box to its original spot.
+- Serve Steve (buys MamaChip from the chip shelf for $9).
+- Let John into the Male Restroom (he locks it from inside).
+- Serve Melia (buys Hershey's for $5, ominously whispers "Mortuus es.").
+- Knock on the locked restroom door -> find the Multipurpose Key -> unlock the
+  door to discover dead John in a pool of blood -> total blackout!
+- Pick up your phone from the counter basket and dial 911 on the dialpad.
+- Follow the trail of bloody footprints into the Stockroom -> door slams shut
+  -> strobe-light Monster encounter -> open the door, walk fully outside ->
+  2 seconds later, sudden lunging jumpscare cuts to black!
+
+[SAY TO AUDIENCE]
+"Act 4 is Night Shift 2 — and everything escalates rapidly.
+You arrive in heavy rain holding an open black umbrella. Once indoors, you
+close the umbrella and place it in the stand behind the counter, setting your
+phone down on the counter basket.
+
+Next, you tackle the unfinished restock job: carrying the cardboard box to
+the aisle, stocking all 12 cans with a radial interaction prompt, and putting
+the empty box back where it came from — if you forget, the protagonist keeps
+reminding you every 5 seconds before the shift continues.
+
+During the shift, three visitors arrive:
+- Steve comes in with his umbrella and buys chips.
+- A man named John begs to use the restroom to get out of the rain and locks
+  himself inside.
+- Then Melia returns, stays eerily silent at checkout, and whispers one Latin
+  phrase before leaving: 'Mortuus es' — meaning 'You are dead.'
+
+Worried about John being inside too long, the player knocks on the restroom
+door, gets no answer, finds the Multipurpose Key, and forces it open —
+discovering John dead in a pool of blood right before the station plunges
+into a blackout.
+
+The player rushes to the counter phone, dials 911 on the interactive keypad,
+and waits for help — until corrupted audio hits and realistic bloody
+footsteps lead straight into the Stockroom. Inside, the door slams shut
+behind you, the overhead light strobes as the Monster creeps closer, and the
+protagonist whispers 'Mortuus sum' — 'I am dead.' Even when the player
+manages to open the Stockroom door and escape back outside, two seconds later
+the Monster lunges out in a full jumpscare, cutting straight to black."
+
+================================================================================
+SECTION 7: ACT 5 — NIGHTMARE FINALE & ENDING REVEAL (6:30 - 7:15)
+================================================================================
+
+[ON SCREEN]
+- Centered black-screen text: "Sumne re vera mortuus?" -> "Reality?"
+- Player jolts awake in bed. Point out the corrupted top-left task:
+  "Task: Wash your face / - Severe your head."
+- Open the bedroom door and step into the hallway -> movement slows down
+  until completely paralyzed -> cabin lights flicker wildly -> final Monster
+  jumpscare -> centered black-screen ending reveal -> returns to Main Menu.
+
+[SAY TO AUDIENCE]
+"Finally, in Act 5, the main character jolts awake back in their bed, trying
+to convince themselves it was all just a nightmare. Even the top-left HUD
+begins to break down, twisting 'Wash your face' into 'Severe your head.'
+
+As the player opens the bedroom door and tries to walk down the hall, your
+movement speed progressively drains to zero until you're completely paralyzed.
+The cabin lights flicker violently, the Monster lunges one last time, and the
+screen cuts to black for the final reveal — tying everything directly back to
+the Channel 5 Breaking News from Act 1:
+
+  'You. Are. Dead.
+   You got into a car accident.
+   Near Jojo's station.
+   Mortuus es... id non animadvertisti.'
+   ('You are dead... you didn't realize it.')
+
+After the reveal, the game loops cleanly back to the Main Menu."
+
+================================================================================
+SECTION 8: CLOSING STATEMENT (7:15 - 7:45)
+================================================================================
+
+[SAY TO AUDIENCE]
+"To wrap up, 'NIGHTSHIFT: JOJO'S GAS STATION' combines grounded first-person
+simulation mechanics — cooking, cleaning, cashier POS checkout, restocking,
+and phone dialing — with atmospheric VHS horror, scripted AI customers, and
+a psychological twist that reframes every act you just played.
+
+Thank you for watching our presentation! We'd be happy to answer any
+questions."
+
+================================================================================
+PRESENTER QUICK CHEAT SHEET (KEEP BESIDE KEYBOARD DURING DEMO)
+================================================================================
+- Move / Sprint .............. W, A, S, D / Left Shift
+- Look ....................... Mouse
+- Interact / Pick Up / Use ... E
+- Mop / Close Umbrella ....... Left Click (Umbrella also: F, R, or Q)
+- Switch Hotbar Slot ......... 1, 2, 3 or Mouse Scroll Wheel
+- Put Down Empty Box ......... E or Q (at glowing origin spot)
+- Exit Cashier PC Screen ..... Esc
+- Skip Current Dialogue ...... H  (great if you need to speed up the demo!)
+- Jump Between Acts (Debug) .. J  (handy if you want to showcase a later Act
+                                   immediately without playing all 5 Acts live)
+================================================================================

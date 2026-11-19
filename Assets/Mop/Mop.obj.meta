@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 7a82b490a61947b8846123456789abcd
+ModelImporter:
+  serializedVersion: 24501
+  internalIDToNameTable:
+  - first:
+      102: Mop
+    second: -2432090755550338912
+  externalObjects: {}
+  materials:
+    materialImportMode: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  meshes:
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+
